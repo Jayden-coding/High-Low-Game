@@ -1,0 +1,7 @@
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\bin\Debug\HighLow.exe.config
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\bin\Debug\HighLow.exe
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\bin\Debug\HighLow.pdb
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\obj\Debug\HighLow.csprojAssemblyReference.cache
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\obj\Debug\HighLow.exe
+P:\Digital\VS\18Jayden Howard\HighLow\HighLow\obj\Debug\HighLow.pdb
